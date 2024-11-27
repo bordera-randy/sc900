@@ -162,7 +162,7 @@
     - [SAS - Shared Access Signatures](#sas-shared-access-signatures)
     - [CORS - Cross-Origin Resource Sharing](#cors-cross-origin-resource-sharing)
     - [SDL](#sdl)  
-    
+
 ## Official Documentation
 - [Microsoft SC-900 Exam Overview](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900)
 - [Microsoft Security, Compliance, and Identity Fundamentals](https://docs.microsoft.com/en-us/learn/paths/sc-900-security-compliance-identity-fundamentals/)
@@ -173,7 +173,7 @@
 
 ## Labs
 - [Microsoft Learn Labs for SC-900](https://docs.microsoft.com/en-us/learn/paths/sc-900-security-compliance-identity-fundamentals/)
-- [GitHub Repository with SC-900 Labs](https://github.com/MicrosoftLearning/SC-900T00A-Microsoft-Security-Compliance-and-Identity-Fundamentals)
+- [GitHub Repository with SC-900 Labs](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals)
 
 ## Student Resources
 - [Microsoft Learn Student Hub](https://docs.microsoft.com/en-us/learn/student-hub/)
